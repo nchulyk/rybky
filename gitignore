@@ -1,0 +1,7 @@
+# Секрети та згенерований конфіг — не в репозиторій
+.env
+.env.*
+!.env.example
+config.js
+_site/
+node_modules/
